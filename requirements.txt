@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision>=0.15
+rasterio
+numpy
+scikit-image
+lpips
+ultralytics
+earthengine-api
+Pillow
